@@ -1,0 +1,21 @@
+{
+    "name": "baoguok/yii2-alipay",
+    "description": "alipay for yii2",
+    "type": "library",
+    "keywords": ["yii2","alipay"],
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "baoguok",
+            "email": "baoguok@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "baoguok\\alipay\\": ""
+        }
+    }
+}
